@@ -23,12 +23,5 @@ I have organized the problems into various categories:
 Feel free to contribute to this repository by:
 
 1. Suggesting optimizations for any solution.
-2. Adding new problems/solutions.
+2. Adding new solutions.
 3. Reporting bugs or issues.
-
-## To contribute
-1. Fork the repo
-2. create a new branch
-3. commit your changes (commit message template - "Add new solution for XYZ problem")
-4. push to the branch
-5. open a pull request
