@@ -5,15 +5,6 @@ The goal of this repository is to keep track of my progress in DSA, practice pro
 
 I have organized the problems into various categories:
 
-- Arrays
-- Strings
-- Two pointer
-- Sliding window
-- Stack & Queues
-- Trees
-- Graphs
-- Math
-- Bit Manipulation
 - Leetcode-Easy
 - Leetcode-Medium
 - Leetcode-Hard
