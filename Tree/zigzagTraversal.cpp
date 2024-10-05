@@ -78,10 +78,6 @@ vector<int> zigzagTraversal(TreeNode* root) {
     return result;
 }
 
-void inorder(TreeNode* root) {
-
-}
-
 int main() {
     TreeNode* root = nullptr;
     root = buildTree(root);
