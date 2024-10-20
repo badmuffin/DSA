@@ -8,6 +8,8 @@ I have organized the problems into various categories:
 - Leetcode-Easy
 - Leetcode-Medium
 - Leetcode-Hard
+- Tree
+- Leetcode-30DaysJS
 
 ## How to Contribute
 
