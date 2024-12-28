@@ -81,8 +81,6 @@ int main() {
     cout << "Postorder traversal:- ";
     postorder(root);
     cout << endl;
-
-    return 0;
 }
 
 /*
